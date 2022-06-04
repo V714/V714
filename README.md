@@ -1,6 +1,6 @@
 
 
-### <p align="center"> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30px" width="30px"> I'm Tomasz </p>
+### <p align="center"> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> I'm Tomasz </p>
   
 ## <p align="center"> Check my Portfolio on: [vlipczynski.com][portfolio]! </p>
 
