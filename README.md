@@ -18,9 +18,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
 
-|Top Languages|For now I am working mostly alone, looking for an opportunity to change it!|
---|--
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v714&hide=tcl,C,gsc,makefile,C%2B%2B,python&theme=tokyonight">|![V714's GitHub stats](https://github-readme-stats.vercel.app/api?username=V714&show_icons=true&theme=radical)|
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v714&hide=tcl,C,gsc,makefile,C%2B%2B,python&theme=tokyonight"> </p>
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=V714&show_icons=true&theme=radical"> </p>
 
  <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=v714&theme=dark&background=000000"> </p>
 
